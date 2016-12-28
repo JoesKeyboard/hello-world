@@ -1,5 +1,3 @@
 "# hello-world" 
-#Peter Davis Sucks
-#Peter Davis Sucks More
-#Peter Davis Sucks Even More
+#Welcome to the Party
 #Word to your mother.
